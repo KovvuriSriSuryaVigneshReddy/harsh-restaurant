@@ -37,5 +37,4 @@ Since this project relies completely on optimized client-side standard browser c
 
 1. **Clone the repository:**
    ```bash
-[   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-](https://harsh-restaurant.vercel.app/)
+   (https://harsh-restaurant.vercel.app/)
